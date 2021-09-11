@@ -1,0 +1,112 @@
+1
+common cold
+Take rest,steam,anticongestants,gargle with water
+Paracetamol,decongestant
+2
+diarrhoea
+Take ample fluids,ORS , high fibre Diet
+
+3
+dysentry
+Increased fluid intake,IV fluids , buttermilk
+consult doctor if conditions severes
+4
+whooping Cough
+Rest,eating smaller meals,honey hydration
+Antibiotics, paracetamol
+5
+ring Worm
+Maintain hygiene,prevent moisture,use apple cider vinegar
+Antifungal Cream
+6
+mouth ulcers
+Avoid spicy food,wash mouth with baking soda, salty water
+orasore
+7
+high blood pressure
+Avoid fat rich food, drink water, meditation
+
+8
+indigestion
+Avoid spicy food , take antacids , drink water
+Eno , Omeprazole
+9
+conjuctivitis
+Don’t wake contact lens , use antibiotics eye drops, put cold dump cloth on eyes
+Choloramphenieol,flusidic acid
+10
+acne
+Wash your face , use over the counter creams, Vit A foods
+
+11
+hay fever
+Take rest, antihistamines,get away from places with flowers
+Antihistamines
+12
+stress
+Dry  dup breathing , meditations,exercises
+
+13
+muscle pull 
+Use hot water bottle, take rest, use painkillers
+Aspirin
+14
+sore throat
+Honey and ginger, warm water , doing salines gargles
+Paracetamol
+15
+heart burn
+Avouds fats, Chocalate and citress fruits,use antacids
+Eno ,Omeprazole
+16
+weakness
+Using Vitamins supplements, rest
+
+17
+bleeding gums
+Avoid smoking practise good oral hygiene , take Vitamin C and K
+Citrazine
+18
+insect bites
+Claen the infected area with soap and water apply antiseptic creams
+
+19
+minor burns
+Gently clean the affected area apply otc creams
+Ibuprofen
+20
+minor cuts
+Clean area with soap & water apply antiseptic apply bandage
+Betardine
+21
+low sugar
+Lie down and consume ORS or glucosde drinks
+
+22
+lices
+Use coconut,olive,anise oil , wash hair more often
+
+23
+eye strain
+Avoid using gadgets for some time lie down and rest your eyes
+
+24
+cheilosis
+Increase Iron rich food in diet call doctor if necessary
+
+25
+callirses
+Soak the area frequently in warm soapy water, use a pumice stone
+
+26
+shoe bite
+Use a num & turmeric paste on the area or use aloevera
+
+27
+headaches
+Take rest , avoid stressful situations, use painkillers if necessary
+Aspirin, Crocin or Paracetamol
+28
+asthma
+There are no home remedies for an asthma attack. Asthma is managed with medications, by avoiding triggers, and by creating an asthma action plan with your doctor.
+

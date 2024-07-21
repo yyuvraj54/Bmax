@@ -8,6 +8,18 @@ unfortunate deaths around the globe due to the covid pandemic.
 - Currently Only Working on windows os 
 - Powered By Python3
 
+## Flow Diagram
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://raw.githubusercontent.com/yyuvraj54/Bmax/master/FlowAndInfo/diet.png" width="640">
+  <img src="https://raw.githubusercontent.com/yyuvraj54/Bmax/master/FlowAndInfo/disease.png" width="640">
+  <img src="https://raw.githubusercontent.com/yyuvraj54/Bmax/master/FlowAndInfo/exercise.png" width="640">
+  
+</div>
+
+## Screenshots
+<img src="https://raw.githubusercontent.com/yyuvraj54/Bmax/master/FlowAndInfo/screenshot.png" width="740">
+
+
 ## Global Module Used In This Project
 - wikipedia
 - covid_india

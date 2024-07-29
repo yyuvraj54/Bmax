@@ -10,14 +10,14 @@ unfortunate deaths around the globe due to the covid pandemic.
 
 ## Flow Diagram
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://raw.githubusercontent.com/yyuvraj54/Bmax/master/FlowAndInfo/diet.png" width="640">
-  <img src="https://raw.githubusercontent.com/yyuvraj54/Bmax/master/FlowAndInfo/disease.png" width="640">
-  <img src="https://raw.githubusercontent.com/yyuvraj54/Bmax/master/FlowAndInfo/exercise.png" width="640">
+  <img src="https://raw.githubusercontent.com/yyuvraj54/Bmax/master/FlowAndInfo/diet.png" width="540">
+  <img src="https://raw.githubusercontent.com/yyuvraj54/Bmax/master/FlowAndInfo/disease.png" width="540">
+  <img src="https://raw.githubusercontent.com/yyuvraj54/Bmax/master/FlowAndInfo/exercise.png" width="540">
   
 </div>
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/yyuvraj54/Bmax/master/FlowAndInfo/screenshot.png" width="740">
+<img src="https://raw.githubusercontent.com/yyuvraj54/Bmax/master/FlowAndInfo/screenshot.png" width="780">
 
 
 ## Global Module Used In This Project

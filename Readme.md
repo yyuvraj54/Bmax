@@ -8,6 +8,16 @@ unfortunate deaths around the globe due to the covid pandemic.
 - Currently Only Working on windows os 
 - Powered By Python3
 
+
+# TECHNOVATION HACKATHON SMART CITY
+## All india 1st runner-up
+
+Design and Developed a Computer Software that was Powered by Python3 (programming language) and Mysql Database to resolve issues related to Smart Health And Hygiene, Received a cash prize of Rs.30000 by the CEO of Greater noida.
+<br>
+<img src="https://yyuvraj54.github.io/Web-Resume/icons/hackathonimage.png" width="740">
+
+
+
 ## Flow Diagram
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="https://raw.githubusercontent.com/yyuvraj54/Bmax/master/FlowAndInfo/diet.png" width="540">
@@ -18,6 +28,8 @@ unfortunate deaths around the globe due to the covid pandemic.
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/yyuvraj54/Bmax/master/FlowAndInfo/screenshot.png" width="780">
+
+
 
 
 ## Global Module Used In This Project
